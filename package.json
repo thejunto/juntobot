@@ -5,7 +5,9 @@
   "author": "Max Holzheu <maxhm10@gmail.com>",
   "description": "A simple helpful robot for Junto Studio",
   "dependencies": {
+    "cron": "^1.0.5",
     "hubot": "^2.11.0",
+    "hubot-cron": ">= 0.1.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.1.2",
     "hubot-google-translate": "^0.1.0",
@@ -19,7 +21,7 @@
     "hubot-shipit": "^0.1.1",
     "hubot-slack": "^3.2.1",
     "hubot-youtube": "^0.1.2",
-    "hubot-cron": ">= 0.1.0"
+    "time": "^0.11.0"
   },
   "engines": {
     "node": "0.10.x"

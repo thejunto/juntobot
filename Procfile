@@ -1,1 +1,1 @@
-web: bin/hubot -a slack -n juntobot
+web: bin/hubot -a slack -n pearbot
